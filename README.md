@@ -7,7 +7,7 @@ Sou uma pessoa curiosa e gosto muto de aprender e explorar diferentes áreas de 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oemanuelpeixoto&show_icons=true&theme=radical)
 
 ### Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oemanuelpeixoto&repo=clone_tiktok_ebac&theme=dark)](https://github.com/lluanlima/clone_tiktok)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oemanuelpeixoto&repo=clone_tiktok_ebac&theme=dark)](https://github.com/oemanuelpeixoto/clone_tiktok_ebac)
 
 ### Linguagens utilizadas 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oemanuelpeixoto&layout=compact)
