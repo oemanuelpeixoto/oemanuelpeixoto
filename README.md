@@ -13,5 +13,7 @@ Sou uma pessoa curiosa e gosto muto de aprender e explorar diferentes áreas de 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oemanuelpeixoto&layout=compact)
 
 ### Contatos 
-[<img src= 'https://img.shields.io/badge/LinkedIn-007785?style=for-the-badge&logo-linkedin&logoColor-white' alt='Linkedin' height='30'>]([https://www.linkedin.com/in/emanuel-peixoto-638917201/)
+- 📧E-mail: epcri1966@gmail.com
+- 👔LinkedIn: https://www.linkedin.com/in/emanuel-peixoto-638917201/
+- 📷Instagram: https://www.instagram.com/emanuelpeixoto_/
 
