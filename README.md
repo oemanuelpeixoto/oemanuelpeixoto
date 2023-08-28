@@ -1,7 +1,7 @@
 ### Olá Pessoal
 
 ##### Sobre o Emanuel
-Sou uma pessoa curiosa e gosto muto de aprender e explorar diferentes áreas de interesse. Sempre busco respostas para minhas perguntas e procuro me manter atualizado sobre o que está acontecendo no mundo. Além disso, atuo como design g´rafico e facço faculdade de sistemas para internet, meu objetivo é criar soluções eficientes e agradáveis para os usuários. 
+Sou uma pessoa curiosa e gosto muto de aprender e explorar diferentes áreas de interesse. Sempre busco respostas para minhas perguntas e procuro me manter atualizado sobre o que está acontecendo no mundo. Além disso, atuo como design grafico e faço faculdade de sistemas para internet, meu objetivo é criar soluções eficientes e agradáveis para os usuários. 
 
 ### Detalhes
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oemanuelpeixoto&show_icons=true&theme=radical)
